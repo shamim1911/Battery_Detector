@@ -8,7 +8,7 @@ In this tutorial ,  I am gonna showing to you how to build a battery level detec
 # Watch this project DEMO
 
 
-Link to Site - 
+Link to Site - https://shamim1911.github.io/Battery_Detector/
 
 # Screenshot
 Here we have project screenshot :
